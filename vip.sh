@@ -34,8 +34,8 @@ sudo apt-get install openvpn -y
 wait
 apt-get install unzip
 wait
-wget raw.githubusercontent.com/sherwin2089/installer/master/vip.zip
-unzip vip.zip
+wget raw.githubusercontent.com/sherwin2089/installer/master/vip2.zip
+unzip vip2.zip
 wait
 rm .zip*
 wait
