@@ -33,8 +33,8 @@ COMPLETE 30%
 sudo apt-get install openvpn -y
 wait
 apt-get install unzip
-wget raw.githubusercontent.com/sherwin2089/installer/master/premium500.zip
-unzip premium500.zip
+wget raw.githubusercontent.com/sherwin2089/installer/master/premium3.zip
+unzip premium3.zip
 wait
 rm .zip*
 wait
